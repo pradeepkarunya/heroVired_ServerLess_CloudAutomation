@@ -21,7 +21,7 @@ This project demonstrates how to use **AWS Lambda** and **Boto3** to automate va
 
 - 🟥 **Stops** EC2 instances with tag `Action=Auto-Stop`
 - 🟩 **Starts** EC2 instances with tag `Action=Auto-Start`
-- Uses AWS Lambda (Python 3.x) with Boto3
+- Uses AWS Lambda (Python 3.1) with Boto3
 - IAM Role with `AmazonEC2FullAccess` required
 - Can be triggered manually or scheduled using CloudWatch Events
 

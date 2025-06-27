@@ -1,1 +1,0 @@
-# heroVired_ServerLess_CloudAutomation
